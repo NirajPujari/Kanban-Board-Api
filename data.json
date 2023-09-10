@@ -1,0 +1,52 @@
+[
+  [
+    "todo",
+    [
+      {
+        "id": "1694168538390",
+        "text": "Create project outline",
+        "description": "Plan the project details and requirements."
+      },
+      {
+        "id": "1694168543799",
+        "text": "Design user interface",
+        "description": "Create wireframes and mockups for the UI."
+      },
+      {
+        "id": "1694198449151",
+        "text": "Write API documentation",
+        "description": "Document the API endpoints and usage."
+      }
+    ]
+  ],
+  [
+    "inprogress",
+    [
+      {
+        "id": "1694154574163",
+        "text": "Implement authentication",
+        "description": "Add user authentication functionality."
+      },
+      {
+        "id": "1694154574680",
+        "text": "Develop data models",
+        "description": "Design and create database data models."
+      }
+    ]
+  ],
+  [
+    "done",
+    [
+      {
+        "id": "1694154575182",
+        "text": "Testing and bug fixes",
+        "description": "Test the application and fix any identified issues."
+      },
+      {
+        "id": "1694154575691",
+        "text": "Deployment to production",
+        "description": "Deploy the application to the production server."
+      }
+    ]
+  ]
+]
